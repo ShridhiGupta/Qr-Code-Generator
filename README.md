@@ -1,3 +1,3 @@
-# Qr-Code
+# Qr-Code-Generator
 
-It simply genearte the qr-code of given url or upi-id.
+It simply generates the QR code of the given URL or UPI ID.
